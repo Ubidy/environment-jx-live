@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: pp
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.1.214
 - name: ubidy-agencyapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.212

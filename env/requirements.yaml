@@ -12,4 +12,4 @@ dependencies:
   version: 0.1.214
 - name: ubidy-agencyapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.212
+  version: 0.1.214

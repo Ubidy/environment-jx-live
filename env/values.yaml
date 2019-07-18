@@ -20,3 +20,45 @@ jenkins:
   Servers:
     Global: {}
 prow: {}
+ubidy-employerengagementapi:
+  environment: "live"
+ubidy-applicationlookupapi:
+  environment: "live"
+ubidy-opportunitiesapi:
+  environment: "live"
+ubidy-agencyengagementapi:
+  environment: "live"
+ubidy-agencyapi:
+  environment: "live"
+ubidy-employerapi:
+  environment: "live"
+ubidy-applicationapi:
+  environment: "live"
+ubidy-agencyemailpreferenceapi:
+  environment: "live"
+ubidy-employeremailpreferenceapi:
+  environment: "live"
+ubidy-agencynotificationapi:
+  environment: "live"
+ubidy-employernotificationapi:
+  environment: "live"
+ubidy-agencyengagementboardsapi:
+  environment: "live"
+ubidy-employerengagementboardsapi:
+  environment: "live"
+ubidy-candidatecenterapi:
+  environment: "live"
+ubidy-agencycandidatecenterapi:
+  environment: "live"
+ubidy-employercandidatecenterapi:
+  environment: "live"
+ubidy-documentapi:
+  environment: "live"
+ubidy-commentssocketapi:
+  environment: "live"
+ubidy-messagequeueapi:
+  environment: "live"
+ubidy-messengerapi:
+  environment: "live"
+ubidy-backofficeapi:
+  environment: "live"

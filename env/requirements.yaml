@@ -31,3 +31,6 @@ dependencies:
 - name: ubidy-applicationlookupapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.146
+- name: ubidy-commentssocketapi
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.1.29

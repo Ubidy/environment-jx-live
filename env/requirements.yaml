@@ -10,3 +10,6 @@ dependencies:
 - name: ubidy-agencyapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.218
+- name: ubidy-agencycandidatecenterapi
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.41

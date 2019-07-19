@@ -15,4 +15,4 @@ dependencies:
   version: 0.0.41
 - name: ubidy-agencyemailpreferenceapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.105
+  version: 0.1.107

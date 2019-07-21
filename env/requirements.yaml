@@ -42,4 +42,4 @@ dependencies:
   version: 2.1.58
 - name: ubidy-employeremailpreferenceapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.83
+  version: 0.1.85

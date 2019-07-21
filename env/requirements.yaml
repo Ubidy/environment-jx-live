@@ -1,7 +1,7 @@
 dependencies:
 - name: employernotificationapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.45
+  version: 0.1.46
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io

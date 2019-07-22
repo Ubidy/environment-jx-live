@@ -52,3 +52,6 @@ dependencies:
 - name: ubidy-employernotificationapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.45
+- name: ubidy-messagequeueapi
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.1.48

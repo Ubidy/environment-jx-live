@@ -51,7 +51,7 @@ dependencies:
   version: 0.0.215
 - name: ubidy-employerengagementboardsapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.39
+  version: 0.0.41
 - name: ubidy-employernotificationapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.46

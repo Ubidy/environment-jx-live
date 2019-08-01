@@ -18,7 +18,7 @@ dependencies:
   version: 0.1.113
 - name: ubidy-agencyengagementapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.120
+  version: 0.0.121
 - name: ubidy-agencyengagementboardsapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.41

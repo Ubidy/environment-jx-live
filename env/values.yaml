@@ -64,3 +64,5 @@ ubidy-backofficeapi:
   environment: "live"
 ubidy-employercandidatecenterapi:
   environment: "live"
+ubidy-backofficeapi:
+  environment: "live"

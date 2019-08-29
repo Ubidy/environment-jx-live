@@ -60,7 +60,7 @@ dependencies:
   version: 0.1.61
 - name: ubidy-messagequeueapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.50
+  version: 0.1.51
 - name: ubidy-messengerapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.28

@@ -12,7 +12,7 @@ dependencies:
   version: 0.1.237
 - name: ubidy-agencycandidatecenterapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.72
+  version: 0.0.74
 - name: ubidy-agencyemailpreferenceapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.113

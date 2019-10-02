@@ -33,7 +33,7 @@ dependencies:
   version: 0.0.153
 - name: ubidy-backofficeapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.9
 - name: ubidy-commentssocketapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.83

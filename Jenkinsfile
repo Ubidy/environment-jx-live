@@ -14,7 +14,7 @@ pipeline {
         container('maven') {
           dir('env') {
             sh 'helm init --stable-repo-url http://mirror.azure.cn/kubernetes/charts/'
-            sh 'jx step helm build'
+            sh 'unset TILLER_NAMESPACE && jx step helm build'
           }
         }
       }
@@ -26,7 +26,7 @@ pipeline {
       steps {
         container('maven') {
           dir('env') {
-            sh 'jx step helm apply'
+            sh 'unset TILLER_NAMESPACE && jx step helm apply'
           }
         }
       }

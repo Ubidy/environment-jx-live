@@ -13,6 +13,7 @@ pipeline {
       steps {
         container('maven') {
           dir('env') {
+            sh 'helm init --stable-repo-url http://mirror.azure.cn/kubernetes/charts/'
             sh 'jx step helm build'
           }
         }

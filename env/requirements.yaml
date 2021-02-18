@@ -42,7 +42,7 @@ dependencies:
   version: 0.1.37
 - name: ubidy-employerapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 2.1.83
+  version: 2.1.90
 - name: ubidy-employercandidatecenterapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.27

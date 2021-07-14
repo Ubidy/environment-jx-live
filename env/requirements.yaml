@@ -39,7 +39,7 @@ dependencies:
   version: 0.1.86
 - name: ubidy-documentapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.37
+  version: 0.1.38
 - name: ubidy-employerapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.1.91

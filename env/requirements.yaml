@@ -36,7 +36,7 @@ dependencies:
   version: 0.0.16
 - name: ubidy-commentssocketapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.85
+  version: 0.1.86
 - name: ubidy-documentapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.37

@@ -27,7 +27,7 @@ dependencies:
   version: 0.1.39
 - name: ubidy-applicationapi
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.1.54
+  version: 0.1.55
 - name: ubidy-applicationlookupapi
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.158
